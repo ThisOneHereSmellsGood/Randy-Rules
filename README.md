@@ -18,3 +18,4 @@ Sin it's an extension of number one.
 
 ### 3. Never say “I'll be right back”
 Because you won't be back!
+<img width="1258" height="1000" alt="image" src="https://github.com/user-attachments/assets/fe4ba142-c22e-46f0-b183-7242c25d6cf3" />
